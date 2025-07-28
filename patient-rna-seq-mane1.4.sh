@@ -121,7 +121,3 @@ mv header2 $tpmfile
 rm a
 
 # the output file gene.count.tsv is used for DESeq2 analysis
-#geneScore -i /home/xw2629/xuebing/RPL3L/code/deseq2-D308_vs_infant.tsv -skip 1 -cScore 3 -d /home/xw2629/genomes/geneSets/msigdb_v2024.1.Hs_GMTs/msigdb.v2024.1.Hs.symbols.gmt -o msigdb-deseq2-D308-vs-infant-ks-20250727 -p 1e-8 -plot
- 
-
-
